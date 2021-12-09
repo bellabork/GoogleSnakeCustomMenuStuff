@@ -4,7 +4,7 @@ window.snake.more_menu = function(e) {
   // micro
   let img = new Image;
   img.src = 'https://i.postimg.cc/FHxxLK4m/micro-1.png';
-  img.width = 47;
+  img.width = 80;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
